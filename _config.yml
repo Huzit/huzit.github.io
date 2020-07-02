@@ -1,7 +1,7 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "프로젝트.."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -15,6 +15,13 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
+  hwan:
+    name: Hwan
+    display_name: Hwan
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/avatar.png'
+    email: https://hwan4789@gmail.com
+    description: "hi bye"
   sal:
     name: Sal
     display_name: Sal
