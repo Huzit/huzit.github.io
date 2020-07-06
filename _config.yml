@@ -13,6 +13,7 @@ include: ["_pages"]
 permalink: /:title/
 email: wowthemesnet@gmail.com
 
+
 # Authors
 authors:
   hwan:
