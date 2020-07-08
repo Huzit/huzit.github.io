@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /huzit.github.io/
+baseurl: /huzit/
 
 # Website info
 title: Little Library
@@ -68,7 +68,7 @@ feed:
 safe: False
 lsi: False
 username: Huzit
-repo: huzit.github.io
+repo: huzit
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
